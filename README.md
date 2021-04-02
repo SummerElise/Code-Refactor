@@ -17,3 +17,6 @@ THEN I find a concise, descriptive title
 
 
 The end product should look like the following:
+
+
+![HW1 image](https://user-images.githubusercontent.com/80479850/113378133-3cad9480-9344-11eb-8dd1-66c2997e4af7.PNG)
